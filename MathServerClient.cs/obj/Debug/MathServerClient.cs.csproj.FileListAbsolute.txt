@@ -1,0 +1,6 @@
+c:\users\mary\documents\visual studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\bin\Debug\MathServerClient.cs.exe.config
+c:\users\mary\documents\visual studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\bin\Debug\MathServerClient.cs.exe
+c:\users\mary\documents\visual studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\bin\Debug\MathServerClient.cs.pdb
+c:\users\mary\documents\visual studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\obj\Debug\MathServerClient.cs.csprojResolveAssemblyReference.cache
+c:\users\mary\documents\visual studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\obj\Debug\MathServerClient.cs.exe
+c:\users\mary\documents\visual studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\obj\Debug\MathServerClient.cs.pdb

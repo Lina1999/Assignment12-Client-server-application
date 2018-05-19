@@ -1,0 +1,5 @@
+C:\Users\Mary\Documents\Visual Studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\bin\Debug\MathServerClient.cs.exe.config
+C:\Users\Mary\Documents\Visual Studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\bin\Debug\MathServerClient.cs.exe
+C:\Users\Mary\Documents\Visual Studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\bin\Debug\MathServerClient.cs.pdb
+C:\Users\Mary\Documents\Visual Studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\obj\Debug\MathServerClient.cs.exe
+C:\Users\Mary\Documents\Visual Studio 2017\Projects\MathServerClient.cs\MathServerClient.cs\obj\Debug\MathServerClient.cs.pdb
